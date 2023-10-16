@@ -1,0 +1,1 @@
+![Diagramma di flusso per il compito assegnato](ordinare-una-pizza.jpg)
